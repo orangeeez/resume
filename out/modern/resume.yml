@@ -1,0 +1,200 @@
+name: 'Andrew Ryzhkov'
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+info:
+  label: 'Angular/C#/Fullstack Developer'
+  brief: 'Liable engineer, well-experienced in fullstack web development with a bias in cybersecurity. 5 years experience in Cyber Security Center of the MoD. Knowledge of patterns, best practices. <strong>Angular</strong>, <strong>C#</strong>, <strong>NET Core</strong> skills'
+  image: 'https://1drv.ms/u/s!ApXwf6UyDzJahzBV2sOUDGviRlHE'
+contact:
+  website: 'https://github.com/orangeeez'
+  phone: '+38 (091) 30-44-777'
+  email: andrewryzhkov@outlook.com
+  other:
+    - orangeeez27.05.93@gmail.com
+location:
+  address: 'Saburova 5'
+  city: Kyiv
+  code: '02222'
+  country: UA
+social:
+  -
+    label: ""
+    network: GitHub
+    user: orangeeez
+    url: 'https://github.com/orangeeez'
+employment:
+  summary: 'Fullstack development (Angular, NET Core) with a bias in cybersecurity'
+  history:
+    -
+      employer: 'Cyber Security Center, Ministry of Defence'
+      url: 'http://www.mil.gov.ua/ukbs/'
+      position: 'Cyberscurity senior officer of information systems'
+      summary: 'I was responsible for integration between SIEM systems and Cyber Security Center API (which was developed by me). I was providing full CI/CD support for solutions including Docker technologies'
+      start: 2015-02
+      keywords:
+        - Angular
+        - 'NET Core'
+        - 'C#'
+        - 'Web development'
+        - Docker
+        - CI/CD
+        - PWA
+      highlights:
+        - 'Was a part of team which is developed **SIP Server** implementation for secure networks in MoD and using nowadays.'
+        - 'Developed and implemented **Cyber Security Center API** based on Angular & NET Core stack for structuring and centralized management.'
+        - 'Was responsible for continuous integration & development of **Cyber Security Center API** and providing **Docker** support'
+        - 'Managed GitLab server & CI/CD automation in Cyber Security Center overall'
+        - 'Participated in international excercises (Ambermist 2019, Vilnius, Lithuania. CWIX 2018, Bydgoszcz, Poland).'
+        - 'Graduated from Naval Postgraduate School, Monterey, CA, USA. Curriculum: 257.'
+education:
+  summary: 'Computer sciences & automated control systems'
+  level: degree
+  degree: Master
+  history:
+    -
+      institution: 'Military Institute of Telecommunications and Informatization the name of Heroes of Kruty (former KPI)'
+      title: Master
+      url: 'http://viti.edu.ua'
+      start: 2010-09
+      end: 20015-02
+      grade: B
+      summary: 'Graduated of Institute of Telecommunications and Informatization, winter of 2015. In diploma project presented to the commission I developed virtual simulator of a modern radio station using WebRTC & WebGL technologies, which was used by student for educational purposes mowdays.'
+      curriculum:
+        - 'Data Algorithms'
+        - Optimization
+        - 'Neural Networks'
+        - C
+        - C++
+        - Java
+        - HTTP
+        - TCP/IP
+        - Delphi
+    -
+      institution: 'Naval Postgraduate School, Monterey, CA, USA'
+      title: Non-diploma
+      url: 'https://nps.edu'
+      start: 2018-06
+      end: 20019-06
+      grade: B
+      summary: 'Recevied graduate certificate provided a rigorous foundation upon which to build knowledge and skills in computer network defense, attack and exploitation and detailed understanding of, and ability to, function in real operational situations involving cyber security.'
+      curriculum:
+        - 'Secure Management of Systems'
+        - 'Network Security'
+        - 'Network Vulnerability and Risk Mitigation'
+        - 'Introduction to Computer Security'
+        - 'Network Traffic Analysis'
+        - 'Computer Forensics'
+    -
+      institution: 'NATO SCHOOL, Oberammergau, Germany'
+      title: Certificate
+      url: 'https://nps.edu'
+      start: 2016-04
+      end: 2016-06
+      grade: B
+      summary: 'Successfully completed M6-109 Network Vulnerability Assessment & Risk Mitigation Course at the end of which passed the **Certified Ethical Hacker Certification**'
+      curriculum:
+        - 'Vulnerability assessment'
+        - 'Risk mitigation'
+skills:
+  sets:
+    -
+      name: 'Web Development'
+      level: advanced
+      skills:
+        - Angular
+        - JS/ES5/ES6
+        - HTML5
+        - CSS/SCSS
+        - 'NET Core'
+        - PWA
+        - 'REST API'
+    -
+      name: DevOps
+      level: intermediate
+      skills:
+        - 'GitLab CI'
+        - 'Docker, compose, swarm'
+        - CI/CD
+        - 'Microsoft SQL Server'
+        - 'SQL Management Studio'
+    -
+      name: Cybersecurity
+      level: intermediate
+      skills:
+        - 'Fundamentals of TCP/IP-based networking'
+        - 'Packet-level traffic analysis'
+        - 'Traffic filtering types and methodology'
+  list: []
+samples:
+  -
+    title: 'Cyber Security Center API'
+    summary: 'CSC API as structural & centralized management system.'
+    url: 'http://github.comn'
+    date: '2019'
+  -
+    title: 'UAF-SIP Server'
+    summary: 'SIP Server developed for MoD. Implementation of RFC3261'
+    url: 'https://github.com/orangeeez/UAF-SIP'
+    date: '2016'
+  -
+    title: sweetskin.kiev.ua
+    summary: 'Single page application developed as PWA with service workers & material design.'
+    url: 'https://github.com/orangeeez/sweetskin'
+    date: '2019'
+  -
+    title: Boards
+    summary: 'Single page application was developed with Angular and Laravel stack. One of some projects which was developer via freelance approach. Here is [specification](https://1drv.ms/b/s!ApXwf6UyDzJahzjtEn7-oWxwppFS) by customer'
+    url: 'https://github.com/orangeeez?tab=repositories&q=topic%3Aboards'
+    date: '2019'
+reading:
+  -
+    title: 'Javascript Weekly newsletter'
+    flavor: website
+    url: 'https://javascriptweekly.com/'
+  -
+    title: 'Frontend Focus newsletter'
+    flavor: website
+    url: 'https://frontendfoc.us/'
+  -
+    title: 'Medium Subscriber'
+    flavor: website
+    url: 'https://medium.com/'
+  -
+    title: 'Dandelion Wine'
+    flavor: book
+    author: 'Ray Bradbury'
+recognition:
+  -
+    flavor: ceretificate
+    from: 'EC Council'
+    title: 'Certified Ethical Hacker'
+    event: 'Certified Ethical Hacker Certification'
+    url: 'https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/'
+    date: '2018'
+    summary: 'A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner'
+languages:
+  -
+    language: English
+    level: advanced
+  -
+    language: Russian
+    level: native
+  -
+    language: Ukrainian
+    level: native
+interests:
+  -
+    name: Soccer
+    summary: 'Passionate soccer fan, especially Messi''s talent'
+    keywords:
+      - Barcelona
+      - FC
+      - 'La Liga'
+  -
+    name: Traveler
+    summary: 'Live with no excuses and travel with no regrets.'
+    keywords:
+      - Travelocity
+      - Vacation
+      - Trip
