@@ -31,7 +31,7 @@ I was responsible for integration between SIEM systems and Cyber Security Center
 
 ### [Military Institute of Telecommunications and Informatization the name of Heroes of Kruty (former KPI)](http://viti.edu.ua) (2010-09 — 20015-02)
 
-Graduated of Institute of Telecommunications and Informatization, winter of 2015. In diploma project presented to the commission I developed virtual simulator of a modern radio station using WebRTC & WebGL technologies, which was used by student for educational purposes mowdays.
+Graduated of Institute of Telecommunications and Informatization, winter of 2015. In diploma project presented to the commission I developed virtual simulator of a modern radio station using WebRTC & WebGL technologies, which was used by student for educational purposes nowadays.
 
 
 ### [Naval Postgraduate School, Monterey, CA, USA](https://nps.edu) (2018-06 — 20019-06)
@@ -62,7 +62,7 @@ Single page application developed as PWA with service workers & material design.
 
 ### [Boards](https://github.com/orangeeez?tab=repositories&q=topic%3Aboards) (2019-01)
 
-Single page application was developed with Angular and Laravel stack. One of some projects which was developer via freelance approach. Here is [specification](https://1drv.ms/b/s!ApXwf6UyDzJahzjtEn7-oWxwppFS) by customer
+Single page application was developed with Angular and Laravel stack. One of some projects which was developer via freelance approach. Here is customer's [specification](https://1drv.ms/b/s!ApXwf6UyDzJahzjtEn7-oWxwppFS)
 
 
 

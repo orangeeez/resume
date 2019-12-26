@@ -42,13 +42,12 @@
       "courses": [
         "Data Algorithms",
         "Optimization",
-        "Neural Networks",
         "C",
         "C++",
         "Java",
         "HTTP",
         "TCP/IP",
-        "Delphi"
+        "Javascript"
       ],
       "startDate": "2010-09",
       "endDate": "20015-02"
