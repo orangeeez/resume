@@ -52,6 +52,29 @@
         "Participated in international excercises (Ambermist 2019, Vilnius, Lithuania. CWIX 2018, Bydgoszcz, Poland).",
         "Graduated from Naval Postgraduate School, Monterey, CA, USA. Curriculum: 257."
       ]
+    },
+    {
+      "employer": "Creatio (former Terrasoft)",
+      "url": "https://www.creatio.com/",
+      "position": "Business solutions developer",
+      "summary": "Was a part of team who develop CRM system for Lebanon Bank and Netherland shopping mall",
+      "start": "2020-03",
+      "keywords": [
+        "Extjs",
+        "NET Core",
+        "C#",
+        "Web development",
+        "CI/CD",
+        "Jira",
+        "Confluence",
+        "PL/SQL",
+        "Oracle DB",
+        "IIS"
+      ],
+      "highlights": [
+        "Had been developing and implementing business logic as fullstack developer (ExtJS/JQuery/C#/NET Core)",
+        "Managed GitLab server & CI/CD automation"
+      ]
     }]
   },
   "education": {
